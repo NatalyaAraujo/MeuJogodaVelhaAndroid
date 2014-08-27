@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/lua_menor1" android:duration="150"/>
+<!--     <item android:drawable="@drawable/sol_menor" android:duration="150"/> -->
+<!--     <item android:drawable="@drawable/penelope_charmosa_pqna" android:duration="150"/> -->
+</animation-list>

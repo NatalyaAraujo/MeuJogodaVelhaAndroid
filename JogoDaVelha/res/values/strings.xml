@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JogoDaVelha</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity02">Activity02</string>
+    <string name="verde">#006400</string>
+    <string name="title_activity_rpg">RpgActivity</string>
+
+</resources>
